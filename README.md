@@ -1,4 +1,4 @@
-# D-FLIPDLOP-NEGEDGE
+[# D-FLIPDLOP-NEGEDGE
 
 **AIM:**
 
@@ -47,8 +47,8 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 **PROGRAM**
 ```
 Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:Kavinraja D
-RegisterNumber:212222240047
+Developed by:YUGABHARATHI M
+RegisterNumber:212224230314
 ```
 ```verilog
 module DFLIPFLOPNEGEDGE(D,Clock,reset,Q);
@@ -78,3 +78,4 @@ endmodule
 **RESULTS**
 
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
+](https://github.com/Yugabharathi91/JKFLIPFLOP-USING-IF-ELSE/blob/main/README.md)
